@@ -1,0 +1,12 @@
+.modal {
+
+    .modal-backdrop {
+        z-index: 450;
+        opacity: 0.7;
+    }
+    
+    .modal-dialog {
+        z-index: 500;
+    }
+
+}
